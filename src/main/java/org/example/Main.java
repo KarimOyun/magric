@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Введите первое число: ");
-        System.out.println("Введите первое число: ");
+        System.out.print("Введите: ");
+        System.out.print("Введите: ");
         float a = scanner.nextFloat();
 
         System.out.println("Укажите операцию сюда: ");
