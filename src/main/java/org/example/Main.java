@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Введите первое число: ");
         float a = scanner.nextFloat();
 
-        System.out.println("Укажите операцию: ");
+        System.out.println("Укажите операцию сюда: ");
         char operation = scanner.next().charAt(0);
 
         System.out.println("Введите второе число: ");
