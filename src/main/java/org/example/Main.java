@@ -6,7 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите: ");
-        System.out.print("Введите: ");
         float a = scanner.nextFloat();
 
         System.out.println("Укажите операцию сюда: ");
